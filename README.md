@@ -24,7 +24,7 @@ This repository has two extensions for the official plugin. First it modifies th
 5. Open the XCode projects, add the `CoreImage` framework and finish building.
 
 
-## Custom Projects
+## Extended Projects
 
 ### ZombieWalk
 
